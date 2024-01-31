@@ -1,5 +1,5 @@
 # Brasileirão
-Criação de um programa sobre o cmapeonato brasileiro em C.
+Criação de um programa sobre o campeonato brasileiro em C.
 
 Especificacão para a criação Programa
 O programa deve exibir os 20 times do campeonato brasileiro. Cada time é composto por 11 jogadores, sendo um deles o goleiro, e um técnico.
